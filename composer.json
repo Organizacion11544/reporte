@@ -1,5 +1,5 @@
 {
-    "name": "mindef/demo",
+    "name": "mindef/base-mvc",
     "description": "Proyecto MVC demo",
     "type": "project",
     "config": {
