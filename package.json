@@ -1,7 +1,7 @@
 {
-  "name": "base",
+  "name": "reporte",
   "version": "1.0.0",
-  "description": "Aplicacion MVC demo",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -10,15 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^7.2.5",
     "css-loader": "^6.7.1",
     "exports-loader": "^4.0.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.6.1",
-    "node-sass": "^9.0.0",
+    "node-sass": "^7.0.3",
     "postcss-loader": "~3.0.0",
-    "precss": "^4.0.0",
+    "precss": "^3.0.0",
     "sass-loader": "^13.0.2",
     "style-loader": "^3.3.1",
     "terser": "^5.3.8",
